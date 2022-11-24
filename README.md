@@ -20,6 +20,31 @@
 
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/100061627/203827835-c52680dc-cbc0-4b3c-bb69-3baabb5556cc.png">
 
+## Fem un restart a Apache2
+
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/100061627/203828175-8c269d49-fc58-4de1-8606-ee32991bf1a7.png">
+
+## Entrem a l'arxiu de Index.php
+
+
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/100061627/203828413-4b461e3a-ab10-4328-93a2-514c3b5c0f7d.png">
+
+## Comprovar el localhost
+
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/100061627/203828877-f3bb524c-ec9a-4e47-a35d-fef44cc5990b.png">
+
+Borrar fitxer index.php i ja tenim LAMP instal·lat.
+
+# Ara descarreguem Moodle
+
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/100061627/203829342-ed051ffa-75f5-440c-88f5-081dd9627abf.png">
+
+
+
+
+
+
 
 
 
