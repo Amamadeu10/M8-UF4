@@ -32,7 +32,7 @@
 
 ## Comprovar el localhost
 
-<img width="748" alt="image" src="https://user-images.githubusercontent.com/100061627/203828877-f3bb524c-ec9a-4e47-a35d-fef44cc5990b.png">
+![image](https://user-images.githubusercontent.com/100061627/203860529-ce9bd0b9-5175-4060-b7ec-a830a69f6036.png)
 
 Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
