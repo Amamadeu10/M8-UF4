@@ -112,7 +112,8 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ## Ara configurem el compte d'administrador.
 
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/100061627/205096097-2d0a6454-8f75-4096-b55a-82cd0bc14b36.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/100061627/205096487-9d70c6b5-6b2c-4cf1-bc36-a3b176987381.png">
+
 
 
 
