@@ -73,6 +73,11 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 <img width="693" alt="image" src="https://user-images.githubusercontent.com/100061627/205083148-7def41f5-a4b0-4be4-8777-fa4d0d997f2b.png">
 
 
+Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar MariaDB és la que seleccionem.
+
+
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/100061627/205084479-aff1cb39-fb18-4d12-82b6-b8d233154775.png">
+
 
 
 
