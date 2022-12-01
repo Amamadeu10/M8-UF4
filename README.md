@@ -106,6 +106,12 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/100061627/205094508-d06b4e29-0087-4163-985d-1f0f0fdc801e.png">
 
+## Ara donem a següent i Moodle farà comprovacions per comprovar que tot ha anat bé.
+
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/100061627/205095249-87947e56-2bb0-4841-a798-f670a1b24f4b.png">
+
+
+
 
 
 
