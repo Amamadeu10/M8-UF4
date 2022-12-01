@@ -60,6 +60,14 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/100061627/205080975-3c8c745d-4038-4d5c-991d-c16223febbbd.png">
 
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/100061627/205081452-bdaca30b-475f-41f1-8af8-fc2a76da20e0.png">
+
+## Un cop trobada, descarregada e instal·lada la versió CURL per a PHP, reiniciem Apache2 i comprovem que està OK l'estat.
+
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/100061627/205081656-735afeb7-aa2d-4db4-80e7-9939359fcdf7.png">
+
+
 
 
 
