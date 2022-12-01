@@ -104,6 +104,7 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 
 
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/100061627/205094508-d06b4e29-0087-4163-985d-1f0f0fdc801e.png">
 
 
 
