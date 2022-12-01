@@ -88,6 +88,11 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 <img width="618" alt="image" src="https://user-images.githubusercontent.com/100061627/205086701-2f460d59-ba60-483e-a922-979b7c6b9800.png">
 
 
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/100061627/205087299-6bb2b6e5-6918-404d-9047-2ede6cccaf74.png">
+
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/100061627/205088709-7d858c04-5e92-4ad7-a13c-280d11c2e913.png">
+
+
 
 
 
