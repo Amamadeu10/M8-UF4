@@ -54,6 +54,9 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
 <img width="661" alt="image" src="https://user-images.githubusercontent.com/100061627/205080159-6212f595-1f5e-4afb-b159-2b3be48a3939.png">
 
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/100061627/205080272-4a1ce08b-1e6d-4d36-a105-18d74c48993b.png">
+
+
 
 
 
