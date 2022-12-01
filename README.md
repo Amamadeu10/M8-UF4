@@ -79,6 +79,9 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 <img width="647" alt="image" src="https://user-images.githubusercontent.com/100061627/205084479-aff1cb39-fb18-4d12-82b6-b8d233154775.png">
 
 
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/100061627/205085062-8a2b8d93-f456-4893-96d0-eead51c1b9a5.png">
+
+
 
 
 
