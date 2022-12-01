@@ -98,6 +98,9 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ## Reiniciem Apache2 i comprovem l'estat.
 
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205091844-32207d5f-fb36-4caf-9126-a47f41245a1c.png">
+
+
 
 
 
