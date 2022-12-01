@@ -18,6 +18,11 @@
 
 # Instal·lació PHP 7.3
 
+<img width="857" alt="image" src="https://user-images.githubusercontent.com/100061627/205078489-ce99809e-96b1-496a-aba5-7ffac513e365.png">
+
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/100061627/205078660-a36aaf2c-8a47-48fc-b809-ddd0bd7d1c67.png">
+
+
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/100061627/203827835-c52680dc-cbc0-4b3c-bb69-3baabb5556cc.png">
 
 ## Fem un restart a Apache2
