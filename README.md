@@ -96,7 +96,12 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205091844-32207d5f-fb36-4caf-9126-a47f41245a1c.png">
 
-## Reiniciem Apache2 i comprovem l'estat.
+## Reiniciem Apache2 i comprovem l'estat, segueix en la mateixa pantalla donat que també he d'instal·lar l'extensió de PHP.xml
+## Un cop instal·lat ja funciona la pàgina.
+
+
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/100061627/205094105-8bb8d454-6bb8-4717-b6b0-18192551f287.png">
+
 
 
 
