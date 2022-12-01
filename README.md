@@ -121,9 +121,14 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/100061627/205097065-bfc64068-09c2-448a-9da7-aa9686893bcb.png">
 
-## 
+## Important ficar adreça electrònica i noreply@adreça electrònica per a poder continuar.
 
 <img width="651" alt="image" src="https://user-images.githubusercontent.com/100061627/205097334-7d3b3d4c-bc66-477e-b321-909eadc0e09e.png">
+
+
+## I si hem fet tot bé ja estarem a la pàgina tauler.
+
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205098330-29b7fb2d-39b2-4691-b9ef-53b7977c7d7d.png">
 
 
 
