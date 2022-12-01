@@ -108,7 +108,11 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ## Ara donem a següent i Moodle farà comprovacions per comprovar que tot ha anat bé.
 
-<img width="622" alt="image" src="https://user-images.githubusercontent.com/100061627/205095249-87947e56-2bb0-4841-a798-f670a1b24f4b.png">
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/100061627/205095249-87947e56-2bb0-4841-a798-f670a1b24f4b.png"> 
+
+## Ara configurem el compte d'administrador.
+
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/100061627/205096097-2d0a6454-8f75-4096-b55a-82cd0bc14b36.png">
 
 
 
