@@ -112,7 +112,19 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ## Ara configurem el compte d'administrador.
 
+## Important ficar una majúscula i un caràcter perquè no doni error en la contrasenya.
+
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/100061627/205096487-9d70c6b5-6b2c-4cf1-bc36-a3b176987381.png">
+
+
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/100061627/205096996-d5b6923a-6e7c-4a1f-bb72-0b622fd20805.png">
+
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/100061627/205097065-bfc64068-09c2-448a-9da7-aa9686893bcb.png">
+
+## 
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/100061627/205097334-7d3b3d4c-bc66-477e-b321-909eadc0e09e.png">
+
 
 
 
