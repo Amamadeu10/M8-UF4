@@ -50,6 +50,11 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/100061627/205078003-fe86b0cf-8fe9-4a33-b0d0-f7fbea85f226.png">
 
+# Ara configurarem el Moodle.
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/100061627/205080159-6212f595-1f5e-4afb-b159-2b3be48a3939.png">
+
+
 
 
 
