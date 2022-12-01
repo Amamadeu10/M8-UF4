@@ -38,6 +38,11 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
 # Ara descarreguem Moodle
 
+## Aquí vaig tindre el problema que al seleccionar la URL superior no em descarregava perquè no era un enllaç de descàrrega, es té que seleccionar la descàrrega manual.
+
+<img width="766" alt="image" src="https://user-images.githubusercontent.com/100061627/205075844-de3b7d11-ace5-4012-9078-236ae8c64eb2.png">
+
+
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/100061627/203829342-ed051ffa-75f5-440c-88f5-081dd9627abf.png">
 
 
