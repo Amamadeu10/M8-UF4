@@ -81,6 +81,11 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/100061627/205085062-8a2b8d93-f456-4893-96d0-eead51c1b9a5.png">
 
+## A la següent pàgina ens dona el següent error, ara hem d'instal·lar unes llibreries del PHP.
+
+
+
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/100061627/205086701-2f460d59-ba60-483e-a922-979b7c6b9800.png">
 
 
 
