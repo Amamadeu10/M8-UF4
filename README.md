@@ -94,11 +94,11 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ## Ara instal·lem les extensions que ens falta de PHP.
 
-<img width="845" alt="image" src="https://user-images.githubusercontent.com/100061627/205089892-5396733e-0dad-482b-a949-ad02aaecfad3.png">
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205091844-32207d5f-fb36-4caf-9126-a47f41245a1c.png">
 
 ## Reiniciem Apache2 i comprovem l'estat.
 
-<img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205091844-32207d5f-fb36-4caf-9126-a47f41245a1c.png">
+
 
 
 
