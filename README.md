@@ -67,6 +67,11 @@ Borrar fitxer index.php i ja tenim LAMP instal·lat.
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/100061627/205081656-735afeb7-aa2d-4db4-80e7-9939359fcdf7.png">
 
+## Si tot ha anat bé en sortirà la pàgina de confirmació de rutes, en direcció de dades hem de ficar /home/moodledata.
+
+
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/100061627/205083148-7def41f5-a4b0-4be4-8777-fa4d0d997f2b.png">
+
 
 
 
