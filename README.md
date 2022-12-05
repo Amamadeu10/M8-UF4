@@ -146,6 +146,13 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 
 ![image](https://user-images.githubusercontent.com/100061627/205680675-82c659c6-ebc0-42f1-93dc-ecc65b078118.png)
 
+![image](https://user-images.githubusercontent.com/100061627/205681512-72188844-6d09-4c85-b538-a421a214a9af.png)
+
+![image](https://user-images.githubusercontent.com/100061627/205681649-cfac8437-959f-471c-995f-a94906a078b6.png)
+
+
+![image](https://user-images.githubusercontent.com/100061627/205683108-f3a047c1-0c43-4821-b07c-3796c95b48f9.png)
+
 
 
 
