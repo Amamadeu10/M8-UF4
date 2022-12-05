@@ -131,6 +131,27 @@ Ara seleccionem quina base de dades utilitzar, en el nostre cas a l'utilitzar Ma
 <img width="761" alt="image" src="https://user-images.githubusercontent.com/100061627/205098330-29b7fb2d-39b2-4691-b9ef-53b7977c7d7d.png">
 
 
+## Creació sèrie de cursos.
+
+<img width="954" alt="Sin título" src="https://user-images.githubusercontent.com/100061627/205676771-ea71bb02-e8a5-4232-867e-7bbb66575d87.png">
+
+
+![image](https://user-images.githubusercontent.com/100061627/205676957-5c2c288c-cec0-4712-9acf-af8bbae0697d.png)
+
+![image](https://user-images.githubusercontent.com/100061627/205677340-d98dff2b-04ae-4738-995c-c6aa540b081d.png)
+
+![image](https://user-images.githubusercontent.com/100061627/205678479-f66c6f3c-8614-4b6f-bba6-9f0d388ae2fa.png)
+
+<img width="954" alt="Sin título" src="https://user-images.githubusercontent.com/100061627/205679327-cab69503-f083-4e67-b316-c6c21c043c19.png">
+
+![image](https://user-images.githubusercontent.com/100061627/205680675-82c659c6-ebc0-42f1-93dc-ecc65b078118.png)
+
+
+
+
+
+
+
 
 
 
